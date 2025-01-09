@@ -21,8 +21,8 @@ Current filter settings (config.json):
 
 ![image](https://github.com/user-attachments/assets/bb7a8b99-d34d-4bf2-9cc2-74a931cf6d27)
 
-Price: 
-Test : Free
-1 SOL per weekly
-3 SOL per month
+Price:  <br>
+Test : Free <br>
+1 SOL per weekly <br>
+3 SOL per month <br>
 
