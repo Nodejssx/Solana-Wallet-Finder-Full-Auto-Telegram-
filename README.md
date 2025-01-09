@@ -25,4 +25,4 @@ Price:  <br>
 Test : Free <br>
 1 SOL per weekly <br>
 3 SOL per month <br>
-
+Discord : NodesWizard#7841
