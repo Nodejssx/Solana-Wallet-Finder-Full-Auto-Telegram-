@@ -1,12 +1,12 @@
 
 ![image](https://github.com/user-attachments/assets/6e4694bb-65cc-4032-a50f-a626627e8cc5)
 
-Send contracts individually or in multiples.
-Pulls the top 100 holders in all contracts.
-Extracts the pnls of all wallets according to the filters you specify and sends them as excel.
+Send contracts individually or in multiples. <br>
+Pulls the top 100 holders in all contracts. <br>
+Extracts the pnls of all wallets according to the filters you specify and sends them as excel. <br>
 
-Does not add the same wallets back to excel.
-Current settings are below.
+Does not add the same wallets back to excel. <br>
+Current settings are below. <br>
 
 Current filter settings (config.json):
 1) minTotalProfitPercent:
