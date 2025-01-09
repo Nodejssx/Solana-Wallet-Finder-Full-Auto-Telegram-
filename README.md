@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/6e4694bb-65cc-4032-a50f-a626627e8cc5)
 
 Send contracts individually or in multiples. <br>
-Pulls the top 100 holders in all contracts. <br>
+Pulls the top trader 100  in all contracts. <br>
 Extracts the pnls of all wallets according to the filters you specify and sends them as excel. <br>
 
 Does not add the same wallets back to excel. <br>
