@@ -24,5 +24,5 @@ Current filter settings (config.json):
 Price:  <br>
 Test : Free <br>
 1 SOL per weekly <br>
-3 SOL per month <br>
+3 SOL per month <br><br>
 Discord : NodesWizard#7841
